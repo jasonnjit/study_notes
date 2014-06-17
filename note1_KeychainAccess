@@ -2,4 +2,7 @@
 unlock左面各Keychains
 其中，unlock haoj用户时，使用qq6位！！即开机login密码
 最后okay了。
-需
+
+1. 需unlock login和Local Items两个
+2. 将login的设为default
+3. change login的password并顺便将下面的reset ... password选中，如果有同时unlock了Local Items一项
