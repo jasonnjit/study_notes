@@ -14,6 +14,7 @@ http://blog.jetbrains.com/webide/2012/10/high-speed-coding-with-custom-live-temp
 在coding的时候，只需改变一处variable，另外的也会随之变动
 
 
+3. 仔细看上面（1）中的链接，这个高手把很多block of code都写了template，比如Jasmine中的it（“Should……”， function（）{   }）；
 
 
 
