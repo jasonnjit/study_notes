@@ -1,10 +1,19 @@
 常用的一些代码段，可以写一个template，然后存作live template在WebStorm中。并设置一个abbr作缩写，届时Tab键调用。
 
 
-可以参考下面链接中视频：
+1. 可以参考下面链接中视频：
 
-1. Live template 如何用
+(1) Live template 如何用
 https://www.youtube.com/watch?v=shqptAMZ_NM&list=PL2NkgjbtR3-YAVOfP73MQU5dAshTBrDmS&index=3
 
-2. 如何设置Live template
+(2) 如何设置Live template
 http://blog.jetbrains.com/webide/2012/10/high-speed-coding-with-custom-live-templates/
+
+
+2. 在WebStorm的Setting里面可以更改Live template的内容，可以设置$controllerName$为一个variable，这样写两个同样的variable，
+在coding的时候，只需改变一处variable，另外的也会随之变动
+
+
+
+
+
