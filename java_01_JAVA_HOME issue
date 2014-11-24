@@ -1,0 +1,5 @@
+cannot find java sdk, even JAVA_HOME and Path are setup well with jdk path
+
+Try set java\bin folder in the beginning of Path:
+
+http://stackoverflow.com/questions/6036462/running-java-gives-error-could-not-open-c-program-files-java-jre6-lib-amd64
