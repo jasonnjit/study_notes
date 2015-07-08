@@ -10,6 +10,6 @@ npm commands:
   Check the versions of all the node modules 
   
 4. npm install [@<scope>/]<name>@<version>
-  npm install a specific version of the module
+  npm install a specific version of the module, check this link: https://docs.npmjs.com/cli/install
   
 5. 
