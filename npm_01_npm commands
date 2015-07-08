@@ -9,4 +9,7 @@ npm commands:
 3. npm outdated
   Check the versions of all the node modules 
   
-4. 
+4. npm install [@<scope>/]<name>@<version>
+  npm install a specific version of the module
+  
+5. 
