@@ -6,4 +6,7 @@ npm commands:
 2. npm config get prefix
   You can get the gloabl folder of your node modules, like C:\Users\jhao\AppData\Roaming\npm
   
-3. 
+3. npm outdated
+  Check the versions of all the node modules 
+  
+4. 
