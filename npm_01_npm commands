@@ -3,4 +3,7 @@ npm commands:
 1. npm ls
   You can check all the node modules and their dependencies
   
-2. 
+2. npm config get prefix
+  You can get the gloabl folder of your node modules, like C:\Users\jhao\AppData\Roaming\npm
+  
+3. 
