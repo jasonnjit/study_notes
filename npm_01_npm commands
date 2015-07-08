@@ -12,4 +12,10 @@ npm commands:
 4. npm install [@<scope>/]<name>@<version>
   npm install a specific version of the module, check this link: https://docs.npmjs.com/cli/install
   
-5. 
+5. npm install lodash --save
+  Use --save flag to update the package.json file after npm install
+  
+  npm uninstall lodash --save
+  The same, if you want to uninstall and remove the dependecy from package.json file, you still need --save flag 
+  
+6.
