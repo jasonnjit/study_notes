@@ -1,0 +1,4 @@
+1. devDependencies
+  devDependencies only contain the packages you want to use but you don't want to keep the node modules this package uses.
+  https://docs.npmjs.com/files/package.json#devdependencies
+  
